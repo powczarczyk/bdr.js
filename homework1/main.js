@@ -1,0 +1,1 @@
+console.log("Witaj w liście najlepszych skrótów klawiaturowych programu VSC!");
